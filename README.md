@@ -28,8 +28,6 @@ matplotlib / seaborn → Data visualization
 
 plotly → Interactive charts
 
-geopandas → Choropleth mapping (optional)
-
 Jupyter Notebook → Documentation & code execution
 
 ## 📂 Project Structure
